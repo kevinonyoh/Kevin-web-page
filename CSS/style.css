@@ -1,0 +1,83 @@
+body{
+    font-family: "Montserrat";
+    margin: 0px;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+#title {
+    background-color: rgb(11, 44, 7) ;
+    text-align: center;
+    color: white;
+     padding: 1% 4% 4%; 
+}
+
+.nav-item {
+    padding: 0px 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+
+h1{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+
+ /* skill */
+#skills{
+    background-color: rgb(201, 253, 219);
+    padding: 7% 5%;
+    text-align: center; 
+   
+  
+
+}
+.skill{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: rgb(14, 104, 4);
+}
+/* education */
+
+#education{
+   background-color: rgb(13, 70, 6);
+   color: white;
+   text-align: center;
+   padding: 7% 15%;
+}
+.carousel-item {
+    padding: 7% 15%;
+    line-height: 1.5;
+ }
+ /* Hobbies */
+ #Hobbies{
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(199, 247, 194);
+      
+ }
+ .hobbies-column{
+    padding: 3% 2%;
+    background-color: rgb(209, 247, 205);
+ }
+ .hobbies-icon{
+     color: rgb(60, 163, 48);
+ }
+ #footer{
+     background-color: rgb(13, 70, 6);
+     text-align: center;
+     color: white;
+     padding: 7% 15%;
+ }
+ .social-icon{
+     margin: 20px 10px;
+ }
+ .modal-content{
+    background-color:rgb(209, 247, 205) ;
+    text-align: center;
+}
